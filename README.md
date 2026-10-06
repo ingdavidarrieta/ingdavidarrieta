@@ -2,8 +2,7 @@
 
 Desarrollador de software con proyectos reales en producción, enfocado en **backend, APIs e integraciones entre sistemas**. Construyo y opero mis propias aplicaciones de punta a punta: base de datos, servidor, interfaz, despliegue y mantenimiento.
 
-<!-- AGREGA AQUÍ TU CONTACTO ANTES DE PUBLICAR, por ejemplo:
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · tu-correo@ejemplo.com -->
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/darrietatorres)
 
 ## Qué hago
 
